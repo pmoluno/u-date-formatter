@@ -1,5 +1,8 @@
 #  U-Date-Formatter
 
+![NPM Version](https://img.shields.io/npm/v/u-date-formatter)
+
+
 U-Date-Formatter is a versatile Node.js module designed to format and parse dates in various formats. It supports localization, time zones, and many date formatting options.
 
 ## Installation
