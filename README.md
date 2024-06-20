@@ -1,20 +1,20 @@
-# UltimateDateFormatter
+#  U-Date-Formatter
 
-UltimateDateFormatter is a versatile Node.js module designed to format and parse dates in various formats. It supports localization, time zones, and many date formatting options.
+U-Date-Formatter is a versatile Node.js module designed to format and parse dates in various formats. It supports localization, time zones, and many date formatting options.
 
 ## Installation
 
 Install the module via npm:
 
 ```bash
-npm install ultimate-date-formatter
+npm install u-date-formatter
 ```
 ## Usage
 
-First, require the UltimateDateFormatter module:
+First, require the u-date-formatter module:
 
 ```javascipt
-const DateFormatter = require('ultimate-date-formatter');
+const DateFormatter = require('u-date-formatter');
 ```
 
 Create an instance of the DateFormatter class with optional locale and timeZone parameters:
