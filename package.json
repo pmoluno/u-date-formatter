@@ -1,5 +1,5 @@
 {
-  "name": "ultimate-date-formatter",
+  "name": "u-date-formatter",
   "version": "1.0.0",
   "description": "A versatile date formatter and parser for Node.js",
   "main": "ultimateDateFormatter.js",
