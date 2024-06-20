@@ -1,0 +1,18 @@
+{
+  "name": "ultimate-date-formatter",
+  "version": "1.0.0",
+  "description": "A versatile date formatter and parser for Node.js",
+  "main": "ultimateDateFormatter.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "date",
+    "formatter",
+    "parser",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Pureheart Moluno",
+  "license": "MIT"
+}
